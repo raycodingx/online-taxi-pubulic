@@ -1,0 +1,5 @@
+com\raycodingx\apipassenger\controller\VerificationCodeController.class
+com\raycodingx\apipassenger\ApiPassengerApplication.class
+com\raycodingx\apipassenger\controller\TestController.class
+com\raycodingx\apipassenger\service\VerificationCodeService.class
+com\raycodingx\apipassenger\request\VerificationCodeDTO.class
